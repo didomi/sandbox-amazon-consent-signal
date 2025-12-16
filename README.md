@@ -21,10 +21,10 @@ To use this application, you need:
 
 ### Running Locally
 
-Open the `index.html` file in your browser with the required query parameters:
+Open the sandbox in your browser with the required query parameters:
 
 ```
-index.html?apiKey=YOUR_API_KEY&noticeId=YOUR_NOTICE_ID
+https://didomi.github.io/sandbox-amazon-consent-signal/index.html?apiKey={{YOUR_API_KEY}}&noticeId={{YOUR_NOTICE_ID}}
 ```
 
 ## Error Handling
